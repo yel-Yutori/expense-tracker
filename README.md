@@ -37,4 +37,4 @@ python plot_pie.py
 
 ### 圓餅圖範例
 
-![支出圓餅圖]
+![支出圓餅圖](pie_chart.png)
